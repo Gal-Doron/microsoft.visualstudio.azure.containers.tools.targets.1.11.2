@@ -6,7 +6,7 @@
         <RootNamespace>org.app</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-      <PackageReference Include="microsoft.visualstudio.azure.containers.tools.targets" Version="1.11.2" />
+      <PackageReference Include="microsoft.visualstudio.azure.containers.tools.targets" Version="1.17.0" />
     </ItemGroup>
 
 </Project>
